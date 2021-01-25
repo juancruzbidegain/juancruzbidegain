@@ -8,4 +8,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-[![Juan Cruz Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/juancruzbidegain/github-readme-stats)
+[![Juan Cruz Github Stats](https://github-readme-stats.vercel.app/api?username=juancruzbidegain)](https://github.com/juancruzbidegain/github-readme-stats)
